@@ -1,4 +1,4 @@
-package com.study.java.java01;/**
+package com.study.java.j01;/**
  * ClassName: VaribleExercise
  * Package: com.study.java.java01
  * Description:
