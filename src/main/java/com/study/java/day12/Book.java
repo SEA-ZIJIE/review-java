@@ -22,6 +22,7 @@ package com.study.java.day12;/**
  * 修改内容：<br>
  */
 public class Book {
+
     public String name;
     public String price;
 
