@@ -1,18 +1,19 @@
-package com.study.java.day12;/**
- * ClassName: testBool
- * Package: com.study.java.day12
+package com.study.basic.day15.array;/**
+ * ClassName: TestStudent
+ * Package: com.study.basic.day15.array
  * Description:
  *
  * @Author wangzijie
- * @Create 2025/11/14 23:40
+ * @Create 2025/11/17 22:22
  * @Version 1.0
  */
+
 
 /**
  * <p>标题: </p>
  * <p>功能描述: </p>
  *
- * <p>创建时间: 2025/11/14 23:40</p>
+ * <p>创建时间: 2025/11/17 22:22</p>
  * <p>作者：王贤 </p>
  * <p>修改历史记录：</p>
  * ====================================================================<br>
@@ -21,8 +22,9 @@ package com.study.java.day12;/**
  * 修改人：<br>
  * 修改内容：<br>
  */
-public class testBool {
+public class TestStudent {
     public static void main(String[] args) {
+        Student[] students = {new Student("张三",89),new Student("lisi",98),new Student("wangw",12 )};
 
     }
 }
